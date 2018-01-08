@@ -1,0 +1,12 @@
+name: RudeEssentials
+version: 1.0
+main: com.Ryseempiremc.RudeEssentials.Main
+description: This plugin was developed for those cunts who wanted things a... little less PG
+
+commands:
+    FuckOff:
+        usage: /fuckoff
+        description: Used to give someone the boot when they are fucking you off!
+    Bomb:
+        usage: /Bomb <Case Sensitive>
+        description: When you just want to get rid of all those irritating cunts!
